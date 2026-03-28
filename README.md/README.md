@@ -1,16 +1,11 @@
-# 📚 Library Management System (Full Stack Web App)
-
-## 👩‍💻 Student Details
-- Name: Your Name
-- Roll No: Your Roll Number
-
----
+# 📚 Library Management System
 
 ## 📌 Project Description
 
-The Library Management System is a full-stack web application that allows users to manage books digitally. It provides secure user authentication and enables users to perform CRUD operations on books such as adding, viewing, updating, and deleting.
+The Library Management System is a software application designed to manage library operations efficiently. It helps in maintaining records of books, users, and transactions such as issuing and returning books. This system reduces manual work and improves accuracy.
 
 ---
+
 
 ## 🚀 Features
 
@@ -19,6 +14,7 @@ The Library Management System is a full-stack web application that allows users 
 - 👀 View Books
 - ✏️ Update Books
 - ❌ Delete Books
+- 🔍 Search books by title or author
 - 🔄 Client-Server Communication (REST API)
 - 🗄 Database Integration (MongoDB)
 
@@ -40,4 +36,42 @@ The Library Management System is a full-stack web application that allows users 
 
 ---
 
-## 📂 Project Structure
+## ▶️ How to Run the Project
+
+### Step 1: Clone the Repository
+
+git clone https://github.com/pratikshabendbhar01/LibraryManagementProject.git
+
+### Step 2: Navigate to Project Folder
+
+cd LibraryManagementProject
+
+### Step 3: Install Dependencies (if applicable)
+
+npm install
+
+### Step 4: Run the Project
+
+npm start
+
+---
+
+
+## 🎯 Future Scope
+
+* Add user authentication (login system)
+* Improve user interface and design
+* Add online book reservation feature
+* Add admin dashboard
+
+---
+
+## 👩‍💻 Author
+
+**Pratiksha Bendbhar**
+
+---
+
+## ⭐ Repository Link
+
+https://github.com/pratikshabendbhar01/LibraryManagementProject
